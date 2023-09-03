@@ -12,7 +12,7 @@ export default function Home() {
             }}>
             <div className="flex justify-center py-12">
                 <h1 className="text-6xl font-bold relative mt-20">
-                    <span className="bg-gradient-to-r text-transparent bg-clip-text text-red-600 text-8xl shadow-xl px-4">EURODESIGN</span><br></br>
+                    <span className="bg-gradient-to-r bg-clip-text text-red-600 text-8xl shadow-xl px-4">EURODESIGN</span><br></br>
                     <span className="flex justify-center text-black text-3xl py-6">(647) 111 1111</span>
                 </h1>
             </div>
